@@ -1,0 +1,9 @@
+.welcome-digital-contact p {
+    font-size: 18px;
+    margin-bottom: 0;
+    line-height: 30px;
+    font-weight: bold;
+}
+.welcome-digital-contact a {
+    color: #ffce00;
+}
